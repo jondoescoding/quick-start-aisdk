@@ -11,7 +11,7 @@ export const callTool = tool({
       .default({})
   }),
   execute: async function({ tool, method, params = {} }) {
-    const url = `${process.env.NEXT_PUBLIC_API_URL}/tool-call/${tool}/${method}`;
+    const url = `https://veyraxapp.com/tool-call/${tool}/${method}`;
     
     try {
       const response = await fetch(url, {
