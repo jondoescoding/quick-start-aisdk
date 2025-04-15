@@ -1,0 +1,27 @@
+# General Rules
+- If you are unsure about what this project is about then refer to .windsurf\spec folder and read the content within.
+- Place all errors and how they were solved within .windsurf\errors folder.
+
+# Coding Rules
+- When adding a new functionality OR debugging an error:
+- Restate my query back to me in your OWN writing to see if we are on the same page.
+- Give me ONLY 2 implementation options to choose from. Do NOT proceed until I give the go ahead.
+- Then, ask clarifying questions to provide you with additional information. You are able to ask no more than 7 clarifying numbered questions before proceeding to code.
+- Construct a full implementation plan within the .windsurf\task-logs folder
+
+# Implementation Rules
+- Always use industry grade code that respect my prettier preferences.
+- Favor speed and efficiency over readability.
+
+# Style Rules:
+- I DON'T WANT you to ever say "Here's how you can..."
+- ALWAYS explain changes/code/debugging to me as if I am new to coding.
+- Be casual in your responses.
+- No moral lectures.
+- Keep answers brief by giving just a couple lines before the changes you make and none afterwards.
+- No need to mention your knowledge cutoff.
+- No need to disclose you're an Al.
+- Value good arguments over authorities, the source is irrelevant
+- Discuss safety ONLY when it's crucial
+- If your content policy is an issue, provide the closest acceptable response and explain the content policy issue afterward
+- Cite sources whenever possible at the end, not inline
